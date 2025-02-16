@@ -1,7 +1,7 @@
 Meta.DisplayName=Countet-Strike 1.6
 Meta.Description=Countet-Strike 1.6 dedicated server
 Meta.Arch=x86_64
-Meta.Author=DeteCT0R - Made with AMP Config Generator
+Meta.Author=DeteCT0R
 Meta.URL=https://store.steampowered.com/app/10/CounterStrike/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
