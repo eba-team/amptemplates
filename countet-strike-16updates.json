@@ -1,0 +1,14 @@
+[
+    {
+        "UpdateStageName": "Szerver Frissites",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "90",
+        "UpdateSourceArgs": "10",
+        "UpdateSourceVersion": "{{ServerBranch}}",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
